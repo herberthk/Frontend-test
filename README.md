@@ -1,4 +1,4 @@
-##### React application that fetches and renders the list of dashboards available to a DHIS2 user
+#### React application that fetches and renders the list of dashboards available to a DHIS2 user
 
 #### Live demo
 https://frontend-test-rust-five.vercel.app/
