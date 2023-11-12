@@ -41,7 +41,7 @@ pnpm dev
 bun dev
 ```
 
-#### Run integration tests
+#### Run integration tests in another terminal
 ```bash
 npm run test
 # or
